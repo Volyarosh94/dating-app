@@ -1,0 +1,6 @@
+export enum UserStatusEnum {
+  PENDING = 'PENDING',
+  CONFIRMED = 'CONFIRMED',
+  ONLY_SCHEDULE = 'ONLY_SCHEDULE',
+  READY_TO_CALL = 'READY_TO_CALL',
+}
